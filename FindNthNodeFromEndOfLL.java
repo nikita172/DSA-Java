@@ -1,7 +1,5 @@
 package linkedListProblems;
 
-import linkedListProblems.OperationsOnLinkedList.Node;
-
 public class FindNthNodeFromEndOfLL {
 	private int size;
 	FindNthNodeFromEndOfLL(){
